@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "gh-pages": "^3.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -38,5 +39,5 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3"
   },
-  "homepage": "https://dhlee4321.github.io/movie_app_dongha"
+  "homepage": "https://dhleekaf.github.io/movie_app_dongha"
 }
